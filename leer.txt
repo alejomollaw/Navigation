@@ -1,3 +1,5 @@
+Es una Barra de navegacion con contenido y footer
+
 podes agregar todos los li que quieras
 si la lista se va para la linea de abajo lo unico que hay que hacer es
 buscar la clase que dice nav__ul y fijarse en el margin-left y cambiarlo
@@ -6,6 +8,8 @@ para cambiar colores hay que fijarse en las clases, para este archivo
 se usa la metodologia bem asi que buscar .nav o .footer y el elemento va
 a aparecer seguido de los __ buscas color y cambias, si queres cambiar el
 que cambia cuando pasas el cursor, es lo mismo pero tiene que decir :hover.
+
+el contendio nunca va ser menos alto que el min hight asi que el footer siempre va a ir al pie de la agina
 
 
 
